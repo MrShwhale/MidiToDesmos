@@ -10,7 +10,7 @@ Then, copy and paste the text file into Desmos. This will create a table, with t
 To test this out with a simple player, and to see what mechanism may be used play these notes, check out this simple music player I made: https://www.desmos.com/calculator/v5pfuqawlc.
 There are some more instructions in the "Player" folder on that. 
 
-Alternatively, use this script to put music into this rythm game I made on Desmos: https://www.desmos.com/calculator/rhdkqxxk4v.
+Alternatively, use this script to put music into this rythm game I made on Desmos: https://www.desmos.com/calculator/rnyjxrhvsk.
 This uses a very similar player, this time in the "Music" folder.
 
 # Notes
